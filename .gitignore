@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 .DS_Store
 dvd_testing.py
 test_data/bold_all.csv
 
+=======
+>>>>>>> 021796ab005d4e53048c716978dd24363c8d5e8a
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -79,7 +82,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-notebooks/.ipynb_checkpoints
 
 # IPython
 profile_default/
